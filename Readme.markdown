@@ -1,6 +1,7 @@
 ### What's all this, then? ###
 
 This is a super simple skeleton project demonstrating:
+
 1. How to make a Mac OS X menubar app, with a status bar item and a popover.
 2. How to make the menu bar item and popover look decent with both light and dark themes in 
 Yosemite and above (hint: use template images and system colors; see my answer to [this stackoverflow question]
